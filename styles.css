@@ -1,0 +1,45 @@
+body {
+    text-align: center;
+	background-image: url("green.jpg");
+	font-family: 'Russo One', sans-serif;
+}
+
+img{
+	height: 8%;
+	width: 8%;
+	float: ;
+}
+
+h1 {
+    font-size: 32px;
+    margin: 0.5em;
+}
+
+h2 {
+    margin: 1em 0 0.25em;
+}
+
+h2:first-of-type {
+    margin-top: 0.5em;
+}
+
+table, tr, td {
+    border: 1px solid black;
+}
+
+table {
+    border-collapse: collapse;
+    margin: 0 auto;
+}
+
+tr {
+    height: 10px;
+}
+
+td {
+    width: 10px;
+}
+
+input[type=number] {
+    width: 6em;
+}
